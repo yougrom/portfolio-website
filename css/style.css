@@ -47,7 +47,7 @@ body {
     color: var(--base-color-2);
 
     background-color: var(--base-color-3);
-    background-image: url("noise.png");
+    background-image: url("/html_academy/courses/careerfoundry/portfolio-website/img/noise.png");
     background-size: auto;
     background-repeat: repeat;
 }
@@ -206,7 +206,7 @@ body:after {
     display: block;
     width: calc(100% + 400px);
     height: calc(100% + 200px);
-    background-image: url('ellipse.svg');
+    background-image: url('/html_academy/courses/careerfoundry/portfolio-website/img/ellipse.svg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 116px -200px;
